@@ -15,6 +15,8 @@
   "content_scripts": [
     {
       "matches": [
+        "https://frosty-goldberg-d7f4dd.netlify.app/",
+        "https://frosty-goldberg-d7f4dd.netlify.app/*",
         "https://postwoman.io/",
         "https://postwoman.io/*",
         "https://postwoman.netlify.com/*",
